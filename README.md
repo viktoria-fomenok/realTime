@@ -1,1 +1,1 @@
-# Clock with temperature based on arduino
+# Clock with temperature based on Arduino
